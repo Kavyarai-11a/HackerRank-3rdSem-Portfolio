@@ -56,7 +56,23 @@ HackerRank-3rdSem-Portfolio/
 
 ## HackerRank Submission Evidence
 
-Screenshots of the accepted HackerRank submissions and earned badges will be added here as part of the studio activity documentation.
+### Diagonal Difference
+![Diagonal Difference](screenshots/diagonal-difference.png)
+
+### Dynamic Array
+![Dynamic Array](screenshots/dynamic-array.png)
+
+### Time Conversion
+![Time Conversion](screenshots/time-conversion.png)
+
+### Compare the Triplets
+![Compare the Triplets](screenshots/compare-the-triplets.png)
+
+### Sparse Arrays
+![Sparse Arrays](screenshots/sparse-arrays.png)
+
+### HackerRank Profile and Badge
+![HackerRank Profile](screenshots/hackerrank-profile.png)
 
 ## Conclusion
 
